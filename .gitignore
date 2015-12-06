@@ -18,7 +18,6 @@ node-sodium.sublime-workspace
 *.la
 *.log
 coverage/
-deps/libsodium.gyp
 deps/libsodium/libtool
 deps/libsodium/autom4te.cache/*
 deps/libsodium/autom4te.cache/traces.0
