@@ -1,5 +1,5 @@
 {
-  "name": "sodium",
+  "name": "chloridedown",
   "version": "1.0.22",
   "author": "Pedro Paixao <paixaop@gmail.com>",
   "license": "MIT",
@@ -15,9 +15,7 @@
     "should": ">=2.1.0"
   },
   "scripts": {
-    "test": "make test",
-    "preinstall": "make",
-    "install": "node-gyp rebuild"
+    "test": "mocha"
   },
   "repository": {
     "type": "git",
